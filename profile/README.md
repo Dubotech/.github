@@ -21,10 +21,6 @@
 
 ---
 
-## Partners
-
-Blue Robotics · Tritech · Nortek · Vectonav · Bangladesh Navy · ICT Division, Government of Bangladesh
-
 ## Find us
 
 <p>
