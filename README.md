@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/cover.jpeg" alt="Dubotech autonomous systems across sea, land and air" width="100%">
+  <img src="profile/assets/cover.jpeg" alt="Dubotech autonomous systems across sea, land and air" width="100%">
 </p>
 
 <h1 align="center">Dubotech</h1>
